@@ -1,0 +1,23 @@
+.container {
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+.image-container {
+    border: 1px solid #ccc;
+    margin-bottom: 20px;
+    padding: 10px;
+}
+
+.image-container img {
+    max-width: 100%;
+}
+
+.image-details {
+    margin-top: 10px;
+}
+
+.upload-form {
+    margin-top: 20px;
+}
